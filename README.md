@@ -4,10 +4,9 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Tomas Ferrero
+- Vivo en Moreno
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Soy estudiante de La tecnicatura en programación universitaria y desde que soy chico quiero ser un programador.
